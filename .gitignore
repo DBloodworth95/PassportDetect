@@ -1,0 +1,9 @@
+.directory
+.ropeproject
+__pycache__
+current.png
+out.png
+*.ps
+
+# Project exclude paths
+/venv/
